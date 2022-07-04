@@ -1,0 +1,15 @@
+body {
+  margin: 0 auto;
+  font-family: "Roboto", sans-serif;
+  min-width: 1280px;
+}
+
+button {
+  background-color: #3882f6;
+  border: none;
+  padding: 10px 35px;
+  color: white;
+  font-weight: bold;
+  font-size: large;
+  border-radius: 10px;
+}

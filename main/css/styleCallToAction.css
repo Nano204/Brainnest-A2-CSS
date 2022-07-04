@@ -1,0 +1,13 @@
+.callToAction {
+  background-color: #3882f6;
+  color: white;
+  margin: 75px 12%;
+  padding: 20px 120px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px;
+}
+
+.callToAction button {
+  align-self: center;
+}

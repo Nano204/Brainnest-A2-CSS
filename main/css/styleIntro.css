@@ -1,0 +1,33 @@
+.intro {
+  display: flex;
+  background-color: #1f2937;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 0px;
+}
+
+.introText {
+  box-sizing: border-box;
+  width: 40%;
+  color: #f9faf8;
+}
+
+.introText h2 {
+  font-size: 48px;
+  font-weight: bolder;
+  margin: 0;
+}
+
+.introText p {
+  padding-right: 15%;
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.intro img {
+  background-color: lightblue;
+  width: 35%;
+  min-height: 250px;
+}
+
+

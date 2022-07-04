@@ -1,0 +1,24 @@
+.nav {
+  display: flex;
+  background-color: #1f2937;
+  justify-content: center;
+}
+
+h1 {
+  color: #f9faf8;
+  size: 24px;
+  width: 30%;
+}
+
+.links {
+  display: flex;
+  width: 45%;
+  justify-content: right;
+  align-items: center;
+}
+
+.links a {
+  color: #f9faf8;
+  text-decoration: none;
+  margin: 5px;
+}

@@ -1,0 +1,17 @@
+#quote {
+  background-color: #e5e7eb;
+  padding: 90px 18%;
+}
+
+#quote .mainQuote {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: lighter;
+  margin: 0;
+  text-align: justify;
+}
+
+#quote .author {
+  margin-bottom: 0;
+  text-align: right;
+}
