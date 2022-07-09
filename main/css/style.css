@@ -14,3 +14,12 @@ button {
   font-size: large;
   border-radius: 10px;
 }
+
+footer{
+  height: 80px;
+  background-color: #1f2937;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

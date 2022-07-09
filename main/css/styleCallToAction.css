@@ -10,4 +10,6 @@
 
 .callToAction button {
   align-self: center;
+  border: white 2px solid;
+  display: inline;
 }
